@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Doughnut Heaven.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.42500631"
+     inkscape:cx="141.17437"
+     inkscape:cy="664.69601"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <rect
+       x="242.34934"
+       y="585.87365"
+       width="2.3529062"
+       height="23.529062"
+       id="rect7" />
+    <rect
+       x="239.99644"
+       y="548.22715"
+       width="25.881969"
+       height="21.176156"
+       id="rect5" />
+  </defs>
+  <g
+     inkscape:label="Réteg 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ff9955;fill-opacity:1;stroke:#ff9955;stroke-width:20.8877;stroke-opacity:1;image-rendering:auto"
+       d="M 56.4051,95.904042 177.20179,161.87755 C 165.76566,245.92035 -43.068075,158.95614 56.4051,95.904042 Z"
+       id="path2"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Réteg 2">
+    <path
+       style="fill:#fda4f3;fill-opacity:1;stroke:none;stroke-width:20.9022"
+       id="path1"
+       transform="rotate(19.260098)"
+       sodipodi:type="arc"
+       sodipodi:cx="145.43129"
+       sodipodi:cy="93.312653"
+       sodipodi:rx="88.084846"
+       sodipodi:ry="57.593941"
+       sodipodi:start="0"
+       sodipodi:end="6.2784056"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 233.51614,93.312653 A 88.084846,57.593941 0 0 1 145.53654,150.90655 88.084846,57.593941 0 0 1 57.346695,93.450294 88.084846,57.593941 0 0 1 145.11553,35.719082 88.084846,57.593941 0 0 1 233.51513,93.037371" />
+    <ellipse
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:5.52036"
+       id="path1-6"
+       cx="144.1443"
+       cy="89.382553"
+       rx="23.263588"
+       ry="15.21081"
+       transform="rotate(19.260098)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5"
+       style="fill:#fda4f3;stroke-width:40.81889764;stroke:none;fill-opacity:1;stroke-opacity:1;white-space:pre;shape-inside:url(#rect5)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;white-space:pre;inline-size:30.49;fill:#ff0ecb;fill-opacity:1;stroke:none;stroke-width:10.8;stroke-opacity:1"
+       x="64.432869"
+       y="154.70113"
+       id="text6"
+       transform="matrix(2.9009805,0,0,2.9009805,-113.42706,-276.03171)"><tspan
+         x="64.432869"
+         y="154.70113"
+         id="tspan1">Donought Heaven</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7"
+       style="fill:#ff0ecb;stroke-width:40.81889764;stroke:none;fill-opacity:1;stroke-opacity:1;white-space:pre;shape-inside:url(#rect7)" />
+  </g>
+</svg>
